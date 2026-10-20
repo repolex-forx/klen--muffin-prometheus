@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/klen/muffin-prometheus/commit/f21e86f944a9e55688b357baec76b77c7ec1a5fe",
       "git:hexsha": "f21e86f944a9e55688b357baec76b77c7ec1a5fe",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "1.4.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "1.4.1",
+      "repolex:parsedAt": "2026-10-20T21:32:59.908087+00:00"
     },
     {
       "@id": "https://repolex.ai/r/klen/muffin-prometheus/commit/c2069bcbc18d7be037a34e5b6035bf9ae79957a0",
