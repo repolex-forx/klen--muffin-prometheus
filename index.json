@@ -1,0 +1,11 @@
+{
+  "org": "klen",
+  "repo": "muffin-prometheus",
+  "versions": [
+    {
+      "commit": "f21e86f944a9e55688b357baec76b77c7ec1a5fe",
+      "tag": "1.4.1",
+      "parsed_at": "2026-10-20T21:32:59.908565+00:00"
+    }
+  ]
+}
